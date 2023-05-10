@@ -11,4 +11,4 @@ The two digits must be different - 01 and 10 are considered identical.
             if digit1 == 8 and digit2 == 9:
                 print("{}{}".format(digit1, digit2))
             else:
-                print("{}{}".format(digit1, digit2), end=", ")
+                print("{}{}".format(digit1, digit2), end=",")
